@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/SystemAdminWorkArea/ManageEnterpriseJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/WorkQueue/CreateAppointmentWorkRequest.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/DoctorRole/DoctorWorkAreaJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/PatientWorkAreaJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/DoctorRole/PerformWorkRequestJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/Role/PatientRole.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/Organization/DoctorOrganization.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/WorkQueue/WorkQueue.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/CreateFollowUpRequestJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/WorkQueue/LabTestWorkRequest.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/VitalSignFormJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/WorkQueue/CreateFollowUpWorkRequest.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/UserAccount/UserAccount.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/Organization/PatientOrganization.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/RequestAppointmentJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/WorkQueue/InventoryAdminWorkRequest.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/DB4OUtil/DB4OUtil.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/SystemAdminWorkArea/ManageNetworkJPanel.java</file>
+            <file>file:/Users/kvs25/Desktop/AED_Project/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/Role/Role.java</file>
+=======
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/Enterprise/Enterprise.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/WorkQueue/CreateAppointmentWorkRequest.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/CreateFollowUpRequestJPanel.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/PatientWorkAreaJPanel.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/Business/Organization/Organization.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/RequestAppointmentJPanel.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/PatientRole/VitalSignFormJPanel.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/SystemAdminWorkArea/ManageEnterpriseJPanel.java</file>
+            <file>file:/C:/Users/Elena/aed_fall_2016_project_rohil_subramanian_001222613/AED_Project/src/userinterface/DoctorRole/DoctorWorkAreaJPanel.java</file>
+>>>>>>> elton
+        </group>
+    </open-files>
+</project-private>
